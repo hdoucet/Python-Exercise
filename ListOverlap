@@ -1,0 +1,32 @@
+__author__ = 'hugodoucet'
+
+#!/use/bin/env python
+import os, random
+os.system('clear')
+
+def makerange(number):
+	lijst = []
+	for i in range(0,random.randint(1,number)):
+		lijst.append(random.randint(1,number))
+	return lijst
+
+#number = int(raw_input("Please provide a number :"))
+#a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+#b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+
+a = makerange(10)
+b = makerange(9)
+
+if len(a) > len(b):
+	large = a
+	small = b
+else:
+	large = b
+	small = a
+
+print "small : ",small
+print "large : ",large
+
+result = [item for number,item in enumerate(small) if small[number] == large[number] ]
+
+print list(result)
