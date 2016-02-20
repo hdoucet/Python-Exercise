@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ste",
+				"Student_Telefoon"
+			],
+			[
+				"Studen",
+				"Student_Email"
+			],
+			[
+				"ro",
+				"rosae"
+			],
+			[
+				"K",
+				"KostenDekking_Totaal"
+			],
+			[
+				"Ko",
+				"KostenDekking_Maand"
+			],
+			[
+				"Huur",
+				"Huur_Meubel_Bedrag"
+			],
+			[
+				"dw",
+				"dw001"
+			],
+			[
+				"ouders",
+				"Ouders_Telefoon"
+			],
+			[
+				"ou",
+				"Ouders_Email"
+			],
+			[
+				"stude",
+				"Student_Telefoon"
+			],
+			[
+				"Stude",
+				"Student_Email"
+			],
+			[
+				"Ouders",
+				"Ouders_Telefoon"
+			],
+			[
+				"Oud",
+				"Ouders_Email"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"stu",
+				"Student_Email"
+			],
+			[
+				"Stu",
+				"Studie_Richting_Jaar"
+			],
+			[
+				"Ho",
+				"Hoofdverblijfplaats"
+			],
+			[
+				"Hoo",
+				"Huurder_Hoofdverblijfplaats"
+			],
+			[
+				"Huu",
+				"Huurder_Naam"
+			],
+			[
+				"tele",
+				"Student_Telefoon"
+			],
+			[
+				"Ema",
+				"Student_Email"
+			],
+			[
+				"o",
+				"Onderwijsinstelling"
+			],
+			[
+				"H",
+				"Hoofdverblijfplaats"
+			],
+			[
+				"S",
+				"Straat"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"Ka",
+				"Kamer_Verdiep"
+			],
+			[
+				"Kamer",
+				"Kamer_Nummer"
+			],
+			[
+				"T",
+				"Times"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"page",
+				"page-break-before"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pers",
+				"persoonsvorm_nummer"
+			],
+			[
+				"geslacht",
+				"geslacht_getal"
+			],
+			[
+				"gesl",
+				"geslacht_getal"
+			],
+			[
+				"an",
+				"aantal_nummer"
+			],
+			[
+				"per",
+				"persoonsvorm_nummer"
+			],
+			[
+				"ver",
+				"vervoeging_nummer"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"Persoon",
+				"Persoon"
+			],
+			[
+				"pi",
+				"primary"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"a",
+				"arg"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"ge",
+				"getMinutes"
+			],
+			[
+				"get",
+				"getMinutes"
+			],
+			[
+				"g",
+				"getMonth"
+			],
+			[
+				"mu",
+				"minuten"
+			],
+			[
+				"m",
+				"minuten"
+			],
+			[
+				"CON",
+				"conole"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"ext",
+				"ext"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"c",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 196.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hdoucet/Documents/Personal/Coding/HTML/Huurcontract/output.pdf",
+		"/Users/hdoucet/Documents/Personal/Coding/HTML/Huurcontract/ninja-forms-submission.csv",
+		"/Users/hdoucet/Documents/Personal/Coding/HTML/Huurcontract/huur.contract.variabel.txt",
+		"/Users/hdoucet/Documents/Personal/Coding/HTML/Huurcontract/MaaKHuurconrtact.py",
+		"/Users/hdoucet/Documents/Personal/Coding/HTML/Huurcontract/Huurcontract.html",
+		"/Users/hdoucet/Documents/Personal/Coding/HTML/Huurcontract/test.py",
+		"/Users/hdoucet/Documents/Personal/Coding/Python/Latijn /De persoonlijke voornaamwoorden/New DICT.py",
+		"/Users/hdoucet/Documents/Personal/Coding/Python/Latijn /De persoonlijke voornaamwoorden/Pegaus - Vervoegingen - Eerste Jaar.py",
+		"/Users/hdoucet/Documents/Personal/Coding/HTML/Huurcontract/test.html",
+		"/Users/hdoucet/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hdoucet/Documents/personel/Coding/Python/Latijn /Woordenschat/Woordenschat 1ste Jaar/Sheet 1-Table 1.csv",
+		"/Users/hdoucet/Documents/personel/Coding/Python/Latijn /De persoonlijke voornaamwoorden/New DICT.single line.py",
+		"/Users/hdoucet/Documents/personel/Coding/Python/python/Convert.v2.py",
+		"/Users/hdoucet/Documents/personel/Coding/Python/Latijn /De persoonlijke voornaamwoorden/tabel.3.py",
+		"/Users/hdoucet/Dropbox/Latijn/tabel.2.py",
+		"/Users/hdoucet/Documents/personel/Coding/Python/Latijn /De persoonlijke voornaamwoorden/De persoonlijke voornaamwoorden.csv",
+		"/Users/hdoucet/Documents/personel/Coding/Python/Latijn /De persoonlijke voornaamwoorden/New DICT.compiledpy.2.py",
+		"/Users/hdoucet/Documents/personel/Coding/Python/Latijn /De persoonlijke voornaamwoorden/De persoonlijke voornaamwoorden.numbers",
+		"/Users/hdoucet/Documents/personel/Coding/Python/Latijn /De persoonlijke voornaamwoorden/Tabel.new.py",
+		"/Users/hdoucet/Documents/personel/Coding/Python/Latijn /De persoonlijke voornaamwoorden/De persoonlijke voornaamwoorden.2.csv",
+		"/Users/hdoucet/Library/Application Support/Sublime Text 2/Packages/User/FTPSync.sublime-settings",
+		"/Users/hdoucet/Library/Application Support/Sublime Text 2/Packages/FTPSync/FTPSync.sublime-settings",
+		"/Users/hdoucet/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/hdoucet/Documents/personel/Coding/openhab/addons/org.openhab.binding.hue-1.8.0.jar",
+		"/Users/hdoucet/Downloads/distribution-1-3/configurations/items/demo.items",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/Express/Program.1.js",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/stream/input_output.js",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/stream/program.2.js",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/stream/program3.js",
+		"/Users/hdoucet/Downloads/SamsunTVpythonScript-2.py",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/test.js",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/fileServer.js",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/mymodule2.js",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/mymodule.js",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/program.2.js",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/program.js",
+		"/Users/hdoucet/Documents/personel/Coding/NodeJS/program.4.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#",
+			"berdien",
+			"zijnde",
+			"saldo",
+			"{Gemeu",
+			"huurcontract",
+			"\\\\n",
+			",",
+			"^\\n",
+			";",
+			" '+",
+			"done",
+			"        console.log(data.toString().length)\n",
+			"mymodule"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/",
+			"\\n",
+			"/n",
+			" ",
+			","
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 234.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true
+}
