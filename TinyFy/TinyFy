@@ -1,0 +1,22 @@
+__author__ = 'hugodoucet'
+#!/use/bin/env python
+
+import os
+import tinify
+tinify.key = "XCultgXIaiZqf_q6zNxCC5ACx3dsSqn-"
+
+os.chdir("/Users/hdoucet/Desktop/Polariot Export/foto")
+lijst = os.listdir(".")
+
+
+# print lijst
+# for file in lijst:
+# 	print file[0:2]
+
+filterlijst = [file for file in lijst if file[0:2] == "DW"]
+
+
+for file in filterlijst:
+	source = tinify.from_file(file)
+	source.to_file("/Users/hdoucet/Desktop/Polariot Export/foto/tiny/"+file)
+
