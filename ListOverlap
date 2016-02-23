@@ -11,11 +11,11 @@ a = makerange(20)
 b = makerange(20)
 c = set()
 
-for item in a:
- if item in b and item not in c:
-	c.add(item)
+# for item in a:
+#  if item in b and item not in c:
+# 	c.add(item)
 
-# This list comprehension is not working - don't know why
-# c = [ item for item in a if (item in b) & (item not in c)]
+#This list comprehension is not working - don't know why
+c = { item for item in a if item in b }
 
 print "a:",a,"\n b:",b,"\n c:",c
