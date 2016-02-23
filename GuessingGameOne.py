@@ -18,7 +18,12 @@ while True:
 		parameter = "high"
 	else:
 		print "\nYou guessed the correct number !!! in {} times".format(times)
-		break
+		More = raw_input("Would you like to continue ? (Y/N")
+		if More == "Y":
+			break
+		else:
+			print ("You did not enter Y, so we play another game.")
+			i = random.randint(1,9)
 
 	print ("\n {}, alsmost correct, you guessed to {}.".format(username,parameter))
 
