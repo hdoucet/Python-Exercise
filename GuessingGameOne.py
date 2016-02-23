@@ -18,7 +18,7 @@ while True:
 		parameter = "high"
 	else:
 		print "\nYou guessed the correct number !!! in {} times".format(times)
-		More = raw_input("Would you like to continue ? (Y/N")
+		More = raw_input("Would you like to continue ? (Y/N)")
 		if More == "Y":
 			break
 		else:
